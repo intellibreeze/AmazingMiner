@@ -1,0 +1,2 @@
+# AmazingMiner
+Amazing Miner
